@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil✨🍁🌹
 
-<!--
-**jennizin31/jennizin31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Jennifer de Souza Gonçalves**
 
-Here are some ideas to get you started:
+⚫Estou me desenvolvendo na linguagem Javascript e Marckdown.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚫Este é um repoitório para compartilhamentode projetos pessoais da plataforma [Alura](https://cursos.alura.com.br/corp/tecnologia-e-robotica-programacao-nem-3-serie-110727-p694170)
+
+**Você pode entrar em contato comigo📨:**
+
+00001102132524sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/cHciMHkj7yEAAAAM/lola-lola-bunny.gif)
